@@ -1,0 +1,7 @@
+a.hoverArrow:hover {
+    cursor: pointer;
+}
+
+li.active .menu-arrow {
+    transform: rotate(90deg);
+}
